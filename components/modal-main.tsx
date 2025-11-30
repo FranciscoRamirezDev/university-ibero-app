@@ -38,5 +38,4 @@ const ModalMain: React.FC<ModalMainProps> = ({ isOpen, onClose, title, children 
         </div>
     );
 };
-
 export default ModalMain;
